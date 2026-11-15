@@ -10,7 +10,7 @@ We are generally interested to teach students to understand general important st
 We will work on the storytelling, data journalism and examples of complex data visualisation, will go from 2D to Data representation use cases of visualisation and will speak about the advanced data analysis attuned to the data science projects which students are currently having.
 
 # Main resources 
-We will workwith various resources such as Data journalism handbook https://www.researchgate.net/publication/281376035_The_Data_Journalism_Handbook as well as Data for journalism materials from the Guardian, Le monde and other media 
+We will workwith various resources such as Data journalism handbook https://www.researchgate.net/publication/281376035_The_Data_Journalism_Handbook as well as data for journalism materials from the Guardian, Le monde and some other media resources. 
 
 
 
