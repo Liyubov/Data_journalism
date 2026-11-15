@@ -18,4 +18,7 @@ We will work with various resources such as
 
 
 
-Main repository is located here https://github.com/Liyubov/Data_journalism/, yet some data-analysis related resources are located in the repository with projects here https://github.com/Big-data-course-CRI/ 
+Main repository is located here https://github.com/Liyubov/Data_journalism/. 
+Some data-analysis related resources are located in the repository with projects here 
+1. https://github.com/Big-data-course-CRI/ course with University Paris Cite since 2019
+2. https://github.com/Liyubov/course_embeddings_constructor course with Constructor University 2026
